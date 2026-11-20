@@ -1,0 +1,24 @@
+# Build folders & binaries
+build/
+out/
+Debug/
+Release/
+x64/
+x86/
+*.o
+*.obj
+*.exe
+*.out
+*.app
+*.dSYM/
+
+# IDE & OS clutter
+.vs/
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.user
+*.suo
+*.sdf
+*.opensdf
